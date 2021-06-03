@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: red;
+}
+video{
+    width: 500px;
+    height: 200px;
+    margin: 10%;
+    margin-left: 25%;
+}
